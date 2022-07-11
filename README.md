@@ -1,2 +1,3 @@
 # test1
-chip-see
+chip-seq
+
